@@ -9,7 +9,7 @@ This project is a **Movie Recommender System** built using Python and the TMDb d
 - ✅ Text feature engineering using TF-IDF and CountVectorizer
 - ✅ Movie metadata analysis (cast, crew, genre, etc.)
 - ✅ Cleaned and preprocessed TMDb dataset
-- ✅ Streamlit Web App (if applicable)
+- ✅ Streamlit Web App
 - ✅ Recommends top 5 similar movies based on selected movie
 
 ## 🛠️ Tech Stack
@@ -19,6 +19,8 @@ This project is a **Movie Recommender System** built using Python and the TMDb d
 - **Scikit-learn** – TF-IDF, CountVectorizer, Cosine Similarity
 - **NLTK** – Text preprocessing
 - **TMDb 5000 Movie Dataset** – Movie metadata
+- **streamlit** – Movie metadata
+
 
 ## 🚀 How It Works
 
